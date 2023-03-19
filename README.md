@@ -1,4 +1,4 @@
-# Data-Analyst-portfolio
+# SQL-portfolio
 This repository provides a sample of data analysis work I completed using SQL, Pyton and includes the following:
 
 Project Name  | Description   |  Topic
